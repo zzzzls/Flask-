@@ -6,4 +6,4 @@
 
 
 
-[V1.0]:./flask_projectV1.0/readme.md
+[V1.0]:./flask_projectV1.0
